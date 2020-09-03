@@ -1,6 +1,6 @@
 # Data Pemilih
 
-A new Flutter project.
+Flutter project for manage database pemilih, create read update and delete.
 
 ## Getting Started
 
